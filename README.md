@@ -1,1 +1,1 @@
-ChatGPT Learning with Django, Rest Framework and JWT Authentication.
+ChatGPT Learning with Django, Rest Framework and JWT Authentication. Branch Different.
